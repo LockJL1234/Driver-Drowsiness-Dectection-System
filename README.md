@@ -1,7 +1,5 @@
 # Driver Drowsiness Detection System
 
----
-
 This is a driver drowsiness detection system that will alert the driver using audio when the system detects the driver feeling drowsy and is about to fall asleep. The system captures live footage of the driver through the connected camera device and identifies the eyes of the driver from the driver's facial feature with a machine learning model.
 
 The system detects drowsiness in the driver by detecting the state of the eyes of the driver. If the driver closes his/her eyes for too long (around 5 seconds), then the system will alert the driver for the driver to be awake and regain focus on the road.
